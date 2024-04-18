@@ -1,8 +1,10 @@
+### Setup
+`npm i`
 
-Start api
+### Start api
 `npx tsx index.ts`
 
-call in order
+### Call in order
 
 1. GET `localhost:8000/setup-price` - price is 5
 2. GET `localhost:8000/change-name` - stuck for 20s
